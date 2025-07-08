@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-funding-rates-mcp-badge.png)](https://mseep.ai/app/kukapay-funding-rates-mcp)
+
 # Funding Rates MCP
 
 An MCP server that provides real-time funding rate data across major crypto exchanges, enabling agents to detect arbitrage opportunities. 
