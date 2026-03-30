@@ -13,6 +13,10 @@ An MCP server that provides real-time funding rate data across major crypto exch
 - **Pivoted Table Output**: Displays symbols as rows, exchanges as columns, and includes a `Divergence` column for max funding rate difference.
 - **Claude Desktop Integration**: Runs as an MCP server for interactive queries.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-funding-rates-mcp).
+
 ## Installation
 
 ### Prerequisites
